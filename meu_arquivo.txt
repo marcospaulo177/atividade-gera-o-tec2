@@ -1,0 +1,6 @@
+Este é o meu primeiro arquivo no GitHub!
+
+Estou aprendendo a usar o Git para versionar meus projetos
+e compartilhar meu código com o mundo.
+
+Vamos em frente!
